@@ -5,10 +5,6 @@
 - 📫 You can find me in the telegram-@kaluginivan2
 - My Codewars proffile - https://www.codewars.com/users/IvanKalug-QA/stats
 - My Leetcode proffile - https://leetcode.com/IvanKalug-QA/
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;     
   
 ![Codewars](https://github.r2v.ch/codewars?user=IvanKalug-QA&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/IvanKalug-QA?theme=dark)
 
