@@ -10,6 +10,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;     
   
-![Codewars](https://github.r2v.ch/codewars?user=IvanKalug-QA&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=IvanKalug-QA&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/IvanKalug-QA?theme=dark)
 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
